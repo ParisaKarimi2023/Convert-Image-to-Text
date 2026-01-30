@@ -8,7 +8,7 @@ This technology is widely used in applications such as document scanning, automa
 The aim of this Python project is to design a system that can take an input image and accurately detect and extract text using OCR libraries such as Tesseract OCR, OpenCV, and Pillow.
 
 ## Objective
-The main goals of the project are:
+The main goals of the project are :
 <ul>
 <li>To build an automated Python tool that extracts text from images.</li>
 
