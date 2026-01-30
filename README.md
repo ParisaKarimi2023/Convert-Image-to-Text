@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Image-to-text conversion—commonly known as Optical Character Recognition (OCR)—is the process of extracting written or printed text from images and converting it into machine-readable text.
+Image-to-text conversion commonly known as Optical Character Recognition (OCR) is the process of extracting written or printed text from images and converting it into machine-readable text.
 This technology is widely used in applications such as document scanning, automated data entry, license plate recognition, and digital archiving.
 
 The aim of this Python project is to design a system that can take an input image and accurately detect and extract text using OCR libraries such as Tesseract OCR, OpenCV, and Pillow.
